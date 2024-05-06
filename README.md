@@ -1,1 +1,4 @@
-# Leetcode-2488-Count-Subarrays-With-Median-K
+Leetcode-2488 Solution
+
+Runtime = 369ms
+Memory = 21.63mb
