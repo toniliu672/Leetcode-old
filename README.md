@@ -1,5 +1,2 @@
-Leetcode-2488 Solution
-
-Runtime = 396ms
-
-Memory = 21.63mb
+## LeetCode Solution
+Start at 5 May 2024
