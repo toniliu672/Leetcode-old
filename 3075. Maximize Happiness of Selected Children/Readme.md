@@ -7,4 +7,3 @@
 
 ### Penggunaan Memori
 - Penggunaan memori: 43.57 MB
-- Mengalahkan 33.89% pengguna Python3 lainnya
